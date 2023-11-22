@@ -18,7 +18,7 @@ A command-line application is created based on node js environment, the function
 
 1. Clone the repo
     ```sh
-      git clone https://github.com/your_username_/Project-Name.git
+      git clone git@github.com:snowlxy1202/professional-readme-generator.git
     ```
 
 2. Install the NPM package
@@ -42,12 +42,12 @@ A command-line application is created based on node js environment, the function
 
 ## Walkthrough
 
-<https://github.com/snowlxy1202>
+<https://drive.google.com/file/d/1PfqbS--LPi5nBSxN4c_oXFxtf_ymO8A9/view>
 
 ## Questions
 
 Github Username: snowlxy1202
 
-Gihub Repo Link: <https://github.com/snowlxy1202>
+Gihub Repo Link: <https://github.com/snowlxy1202/professional-readme-generator>
 
 
